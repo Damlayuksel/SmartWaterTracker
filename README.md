@@ -6,8 +6,8 @@
 
 ## Web Dashboard Interface
 <p align="center">
-  <img src="dashboard_initial.png" alt="Initial Dashboard" width="400" style="margin-right: 15px;"/>
-  <img src="dashboard_active.png" alt="Active Dashboard" width="400"/>
+  <img src="dashboard_initial.png" alt="Initial Dashboard" width="450" style="margin-right: 15px;"/>
+  <img src="dashboard_active.png" alt="Active Dashboard" width="500"/>
 </p>
 
 SmartCoaster is an IoT-based smart coaster constructed to automatically track your daily water consumption using an ESP32 microcontroller and an HX711 load cell amplifier.
