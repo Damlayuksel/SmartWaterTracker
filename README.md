@@ -6,7 +6,7 @@
 
 ## Web Dashboard Interface
 <p align="center">
-  <img src="dashboard_initial.png" alt="Initial Dashboard" width="480" style="margin-right: 15px;"/>
+  <img src="dashboard_initial.png" alt="Initial Dashboard" width="490" style="margin-right: 15px;"/>
   <img src="dashboard_active.png" alt="Active Dashboard" width="500"/>
 </p>
 
