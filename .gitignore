@@ -1,0 +1,21 @@
+# Mac OS X
+.DS_Store
+
+# Word documents
+*.docx
+*.doc
+
+# IDEs
+.vscode/
+
+# PlatformIO
+.pio
+
+# Compile outputs
+*.o
+*.elf
+*.bin
+
+# Temporary files
+*.tmp
+*.bak
