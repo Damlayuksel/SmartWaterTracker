@@ -1,4 +1,4 @@
-# SmartCoaster Water Tracker
+<h1 align="center">SmartCoaster Water Tracker</h1>
 
 <p align="center">
   <img src="project.jpg" alt="Project Hardware" width="500"/>
