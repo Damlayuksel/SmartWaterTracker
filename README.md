@@ -34,3 +34,10 @@ graph LR
 3. Flash the code to your ESP32.
 4. Open the Serial Monitor (115200 baud) to find the local IP address of your coaster.
 5. Open that IP address in your browser to view the dashboard!
+
+## Web Dashboard Interface
+<p align="center">
+  <img src="dashboard_initial.png" alt="Initial Dashboard" width="300" style="margin-right: 10px;"/>
+  <img src="dashboard_active.png" alt="Active Dashboard" width="300"/>
+</p>
+
