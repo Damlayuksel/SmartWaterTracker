@@ -4,6 +4,12 @@
   <img src="project.jpg" alt="Project Hardware" width="500"/>
 </p>
 
+## Web Dashboard Interface
+<p align="center">
+  <img src="dashboard_initial.png" alt="Initial Dashboard" width="400" style="margin-right: 15px;"/>
+  <img src="dashboard_active.png" alt="Active Dashboard" width="400"/>
+</p>
+
 SmartCoaster is an IoT-based smart coaster constructed to automatically track your daily water consumption using an ESP32 microcontroller and an HX711 load cell amplifier.
 
 ## Features
@@ -34,10 +40,3 @@ graph LR
 3. Flash the code to your ESP32.
 4. Open the Serial Monitor (115200 baud) to find the local IP address of your coaster.
 5. Open that IP address in your browser to view the dashboard!
-
-## Web Dashboard Interface
-<p align="center">
-  <img src="dashboard_initial.png" alt="Initial Dashboard" width="300" style="margin-right: 10px;"/>
-  <img src="dashboard_active.png" alt="Active Dashboard" width="300"/>
-</p>
-
