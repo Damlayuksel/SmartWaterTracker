@@ -1,5 +1,7 @@
 # SmartCoaster Water Tracker
 
+![Project Hardware](project.jpg)
+
 SmartCoaster is an IoT-based smart coaster constructed to automatically track your daily water consumption using an ESP32 microcontroller and an HX711 load cell amplifier.
 
 ## Features
